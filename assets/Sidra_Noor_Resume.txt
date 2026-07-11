@@ -1,0 +1,36 @@
+Sidra Noor
+Data Science Student
+
+Contact
++92 3335683083
+sidranoori083@icloud.com
+linkedin.com/in/sidra-noor-a68812353/
+Islamabad, Pakistan
+
+Objective
+Motivated Data Science student (4th semester) with strong analytical and problem-solving skills. Familiar with data management, data visualization, and business intelligence concepts. Eager to apply analytical skills and gain practical experience as a Data Analyst Intern.
+
+Education
+Bachelor of Science in Data Science
+Institute of Space and Technology, Islamabad
+2026 – Present (4th Semester)
+
+Skills
+Technical Skills: Python, C++, MySQL, JavaScript, PHP, HTML, CSS, Excel, MS Office, MS Teams
+
+Projects
+- E-Learning System (C++ / OOP Project)
+  Tools Used: C++, OOP Concepts
+  Developed a student–instructor Learning Management System (LMS) with features such as user login/registration, course management, and performance tracking.
+
+- Online Food Ordering System (C++)
+  Tools Used: C++
+  Developed an online food ordering system with functionalities including menu display, order placement, and bill generation.
+
+- Hospital Management System (Database Project)
+  Tools Used: Database, SQL/MySQL
+  Developed a relational database system to manage hospital records including doctors, patients, appointments, and prescriptions.
+
+- Voting System (Digital Logic Design Project)
+  Tools Used: Digital Logic Design, Proteus
+  Built a combinational logic-based voting system for vote counting using hardware simulation in Proteus.
